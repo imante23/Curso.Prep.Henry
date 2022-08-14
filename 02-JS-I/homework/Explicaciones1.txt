@@ -1,0 +1,18 @@
+Variables
+Una variable es una formula que se usa para darle un valor a algo. pones var algo=otra cosa. Hay muchos tipos, pero de forma básica, sirve para darle funcionamiento a Javascript y encadenar otras acciones.
+
+
+Strings
+Es texto, nombres de personas, de lugares, de cosas. Son palabras que se escriben entre comillas. Es el valor que recibe algo y que tiene una fórmula para existir.
+
+
+Funciones (argumentos, return)
+Las funciones son órdenes o pedidos que le haces a Javascript. Las variables son los ingredientes, y las funciones son la pizza entera, ya hecha. Los argumentos son los valores en juego, las porciones de pizza. Gracias a la armonia de los argumentos es que se define la pizza, por ejemplo si todas las porciones son de morrones, va a ser una pizza de morrones. Pero puede tener 4 porciones de morrones y otras cuatro de jamón y queso. Y return es cuando abrís la caja y encontrás el resultado final. Es el último paso para que te muestre lo que querés.
+
+
+Declaraciones if
+Sirven para darle ordenes al sistema. pones "if" y algo entre parentesis, si es verdadero, ejecuta algo puntual que le pidas, si es falso ejecuta otra cosa que le pidas.
+
+
+Valores booleanos (true, false)
+Devuelven el valor de algo. Pones una palabra, o cualquier cosa, y te devuelven si es verdadero o falso. Sirve para darle ordenes a la máquina. Si es verdadero, despues debería hacer lo que le pidas, y si es falso, debería hacer otra cosa que le pidas.

@@ -1,0 +1,8 @@
+for
+Es un bucle. Sirve para ejecutar una funcion y que devuelva valores ilimitados; solo se detiene en el lugar que vos lo indicas.
+
+
+&&, ||, !
+El primero significa "y". Un elemento "y" otro. Solo van a ser true si ambos son true (casi siempre false). Sirven de base para otras operaciones.
+El segundo equivale a "o". Un elemento "o" el otro elemento. Solo van a ser false si ambos son false (casi siempre true). Sirven de base para otras operaciones.
+El tercero es un "no". Agarra un elemento y te devuelve el opuesto.
