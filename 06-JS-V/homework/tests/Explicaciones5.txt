@@ -1,0 +1,8 @@
+* `prototype`
+Son metodos constructores que sirven de plantilla para que otros objetos los usen.
+
+
+
+* _Constructors_ (de Clases)
+Un constructor es un molde o una clase. El molde que sirve para haacer galletitas. Cada galletita que hacemos es un objeto, es distinta, nunca van a ser iguales o del mismo sabor, aunque siempre van a ser galletitas.
+En javascript las galletitas son la informacion particular de una cosa o una persona.  

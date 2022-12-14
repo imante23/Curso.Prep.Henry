@@ -1,0 +1,2 @@
+Funciones Callback
+cuando usas una funcion ya hecha (la pones como argumento de la nueva funcion). Por ejemplo saludar puede englobar "Hola" o "Chau", dependiendo de que funcion se llame.

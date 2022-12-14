@@ -1,0 +1,25 @@
+Objetos
+Es un contenedor de datos. Es una clave con un valor asignado. Ese valor puede incluir propiedades, metodos y funciones.
+
+
+Propiedades
+Son claves con un valor asignado.
+
+
+Métodos
+Son funciones guardadas en un objeto.
+
+
+Bucle for…in
+itera los metodos del objeto. cambia un poco la funcion for.
+
+
+
+Notación de puntos vs notación de corchetes
+hacen referencia a un elemento de un objeto.
+
+De puntos:
+objeto.elemento ()
+
+De corchetes:
+objeto["elemento"]

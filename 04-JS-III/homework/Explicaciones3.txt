@@ -1,0 +1,4 @@
+Arrays
+Son listas de elementos. Sus valores se escriben entre corchetes. Puede tener strings, numeros, funciones, otras listas.
+La funcion .length sirve para saber cuantos elementos tiene.
+Se le pueden agregar o sacar elementos con .push y .pop.
